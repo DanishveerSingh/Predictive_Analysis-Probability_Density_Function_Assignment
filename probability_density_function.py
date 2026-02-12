@@ -117,4 +117,5 @@ print("The GAN successfully captures multiple modes introduced by the nonlinear 
 print("2. Training Stability:")
 print("After initial fluctuations, the GAN training stabilizes without mode collapse, indicating balanced generator and discriminator learning.\n")
 print("3. Quality of Generated Distribution:")
+
 print("The KDE and histogram-based PDFs closely match, showing that the generator has learned a high-quality approximation of the unknown PDF.")
