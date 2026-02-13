@@ -1,7 +1,7 @@
 # Title: Probability Density Function using Data
 
 # 1. Methodology
-Data Collection ----> Column Selection ---> Data Transformation ----> PDF Estimation using GAN ----> PDF Approximation from Samples ----> PDF Plotting
+Data Collection ----> Column Selection ----> Data Transformation ----> PDF Estimation using GAN ----> PDF Approximation from Samples ----> PDF Plotting
 
 # 2. Description
 - Dataset: data.csv
