@@ -18,25 +18,6 @@ Data Collection ----> Column Selection ----> Data Transformation ----> PDF Estim
 
 # 4. Results
 
-
-# Title: Probability Density Function using Non-Linear Model
-
-# 1. Methodology
-Data Collection ----> Column Selection ---> Data Transformation ----> Parameters and Probability function estimation ----> Parameters printing
-
-# 2. Description
-- Dataset: data.csv
-- Target Column: no2
-- Transformation of no2 column by the formula z = Tr(x) = x + asin(bx)
-- Learning parameters by using the function p(z) = c * e ^ (-lamda * (z - mu) ^ 2)
-
-# 3. Objectives
-- Transformation of data
-- Handle parameters estimation
-- Apply estimation techniques
-- Printing optimal values of parameters (lamda, mu, c)
-
-# 4. Results
 <img width="482" height="198" alt="image" src="https://github.com/user-attachments/assets/e82bec29-54f8-4073-a9da-f4b799d42080" />
 
 <img width="482" height="198" alt="image" src="https://github.com/user-attachments/assets/20e5e711-0a14-4a62-9f81-9804a4d18582" />
